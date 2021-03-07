@@ -1,0 +1,20 @@
+calatorie/Location.java
+ calatorie.Location
+calatorie/City.java
+ calatorie.City
+locatie/tip/Payable.java
+ locatie.tip.Payable
+locatie/Museum.java
+ locatie.Museum
+calatorie/Main.java
+ calatorie.Main
+locatie/Hotel.java
+ locatie.Hotel
+locatie/Church.java
+ locatie.Church
+locatie/Restaurant.java
+ locatie.Restaurant
+locatie/tip/Visitable.java
+ locatie.tip.Visitable
+locatie/tip/Classifiable.java
+ locatie.tip.Classifiable
