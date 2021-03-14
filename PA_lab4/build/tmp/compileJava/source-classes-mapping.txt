@@ -1,0 +1,10 @@
+scoala/School.java
+ scoala.School
+scoala/Student.java
+ scoala.Student
+interogari/FindSchool.java
+ interogari.FindSchool
+scoala/Main.java
+ scoala.Main
+problem/solution/Problem.java
+ problem.solution.Problem
