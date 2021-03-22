@@ -1,0 +1,38 @@
+exception/InvalidRating.java
+ exception.InvalidRating
+media/Movie.java
+ media.Movie
+media/Item.java
+ media.Item
+exception/InvalidYear.java
+ exception.InvalidYear
+media/Book.java
+ media.Book
+exception/InvalidCommand.java
+ exception.InvalidCommand
+citeste/ReadCommand.java
+ citeste.ReadCommand
+citeste/ReadArgument.java
+ citeste.ReadArgument
+media/comenzi/Load.java
+ media.comenzi.Load
+media/comenzi/AddCommand.java
+ media.comenzi.AddCommand
+media/Main.java
+ media.Main
+media/comenzi/ListCommand.java
+ media.comenzi.ListCommand
+media/comenzi/Add.java
+ media.comenzi.Add
+media/comenzi/Command.java
+ media.comenzi.Command
+media/comenzi/Lista.java
+ media.comenzi.Lista
+media/comenzi/processing/CommandProcessing.java
+ media.comenzi.processing.CommandProcessing
+media/comenzi/Save.java
+ media.comenzi.Save
+media/comenzi/Play.java
+ media.comenzi.Play
+media/Catalog.java
+ media.Catalog
