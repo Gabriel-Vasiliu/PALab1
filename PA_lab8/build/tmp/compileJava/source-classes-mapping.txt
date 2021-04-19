@@ -1,0 +1,20 @@
+movie/DbConnection.java
+ movie.DbConnection
+movie/movies/MovieDAO.java
+ movie.movies.MovieDAO
+movie/movies/MovieTable.java
+ movie.movies.MovieTable
+movie/movies/Movie.java
+ movie.movies.Movie
+movie/genres/GenreDAO.java
+ movie.genres.GenreDAO
+movie/genres/GenreTable.java
+ movie.genres.GenreTable
+movie/actors/Actor.java
+ movie.actors.Actor
+movie/Main.java
+ movie.Main
+movie/directors/Director.java
+ movie.directors.Director
+movie/genres/Genre.java
+ movie.genres.Genre
